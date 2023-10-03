@@ -1,4 +1,4 @@
-. Statistical Features:
+1. Statistical Features:
 Mean/Median: anglez와 enmo의 평균 또는 중앙값.
 Variance: 가속도 데이터의 분산.
 Skewness/Kurtosis: anglez와 enmo의 왜도와 첨도.
